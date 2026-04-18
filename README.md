@@ -7,7 +7,7 @@
 <div align="center">
   
   [![Website](https://img.shields.io/badge/🌐_tonyciencia.com-000000?style=for-the-badge)](https://tonyciencia.com)
-  [![TikTok](https://img.shields.io/badge/TikTok-@TonyCiencia-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tonyciencia)
+  [![YouTube](https://img.shields.io/badge/YouTube-@Tonyciencia-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Tonyciencia)
   [![Instagram](https://img.shields.io/badge/Instagram-@TonyCiencia-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tonyciencia)
 
 </div>
