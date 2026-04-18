@@ -55,7 +55,7 @@
 
 | | Herramienta | Qué hago con ella | |
 | :---: | :--- | :--- | :--- |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://gohighlevel.com&size=64" width="28"> | **GoHighLevel** | All-in-one: funnels, CRM, nurturing, llamadas, sitios web. La navaja suiza. | [**→ Probar GHL**](https://www.gohighlevel.com/) |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://gohighlevel.com&size=64" width="28"> | **GoHighLevel** | All-in-one: funnels, CRM, nurturing, llamadas, sitios web. La navaja suiza. | [**→ Probar GHL**](https://www.gohighlevel.com/highlevel-bootcamp?fp_ref=tony-ciencia-llc-57) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://pipedrive.com&size=64" width="28"> | **Pipedrive** | Pipeline visual de ventas para integraciones B2B y seguimiento de deals. | [**→ Probar**](https://aff.trypipedrive.com/vyzzvh7thge6) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://close.com&size=64" width="28"> | **Close** | CRM ágil centrado en comunicación directa: llamadas, SMS y email. | [**→ Probar**](https://refer.close.com/bf9dumgltl5q) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://apollo.io&size=64" width="28"> | **Apollo.io** | Inteligencia de ventas, enriquecimiento de contactos y prospección B2B. | [**→ Probar**](https://get.apollo.io/mzxfxk1o1ea5) |
@@ -91,7 +91,7 @@
 
 | | Herramienta | Qué hago con ella | |
 | :---: | :--- | :--- | :--- |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ycloud.com&size=64" width="28"> | **Ycloud** | Provider de WhatsApp Business API para chatbots y automatización. | [**→ Conectar WhatsApp**](https://www.ycloud.com/) |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ycloud.com&size=64" width="28"> | **Ycloud** | Provider de WhatsApp Business API para chatbots y automatización. | [**→ Conectar WhatsApp**](https://partner.ycloud.com/invitation/dxz9TbKP?gh) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wati.io&size=64" width="28"> | **Wati.io** | Plataforma de atención al cliente multiagente sobre WhatsApp API. | [**→ Probar**](https://affiliates.wati.io/23d5qw8lx136) |
 
 ---
