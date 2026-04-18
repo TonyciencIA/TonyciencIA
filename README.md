@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=250&section=header&text=Tony%20·%20CiencIA&fontSize=60&animation=fadeIn&fontAlignY=35&desc=AI%20Builder%20·%20Automatización%20·%20E-commerce%20·%20Latam&descAlignY=55&fontColor=58a6ff" alt="Header Banner" />
+  <img src="./assets/logo.png" width="120" alt="TonyciencIA Logo" />
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Tony%20·%20CiencIA&fontSize=55&animation=fadeIn&fontAlignY=40&desc=AI%20Builder%20·%20Automatización%20·%20E-commerce%20·%20Latam&descAlignY=60&fontColor=58a6ff" alt="Header Banner" />
 </div>
 
 <div align="center">
