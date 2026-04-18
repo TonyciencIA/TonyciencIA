@@ -30,9 +30,7 @@ My work sits at the intersection of **B2B automation**, **AI agent development**
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
-</div>
+---
 
 ## 🚀 What I Build
 
@@ -48,9 +46,7 @@ My work sits at the intersection of **B2B automation**, **AI agent development**
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
-</div>
+---
 
 ## ❤️ Core Stack
 
@@ -69,9 +65,7 @@ My work sits at the intersection of **B2B automation**, **AI agent development**
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
-</div>
+---
 
 ## 🤝 B2B & Collaborations
 
@@ -110,9 +104,7 @@ Whether you need to **automate internal operations**, build an **AI agent** that
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://getresponse.com&size=64" width="28"> | **GetResponse** | Landing pages, webinars y autoresponders de marketing todo-en-uno. | [**→ Probar**](https://try.getresponsetoday.com/zxqczrj1idl8) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kit.com&size=64" width="28"> | **Kit (ConvertKit)** | Gestión de audiencias y newsletters para creadores de contenido. | [**→ Probar**](https://partners.kit.com/v78kkgp588z9-uw04r) |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
-</div>
+---
 
 ### 🏗️ App Builders & Desarrollo
 
@@ -122,9 +114,7 @@ Whether you need to **automate internal operations**, build an **AI agent** that
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://base44.com&size=64" width="28"> | **Base44** | Prototipado rápido de apps internas y herramientas de negocio con IA. | [**→ Construir**](https://base44.pxf.io/c/6249333/2049275/25619?trafcat=base) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://namecheap.com&size=64" width="28"> | **Namecheap** | Dominios, hosting y SSL para todos mis proyectos web y SaaS. | [**→ Registrar Dominio**](https://namecheap.pxf.io/3JQVNX) |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
-</div>
+---
 
 ### 💼 Ventas & CRMs
 
@@ -135,9 +125,7 @@ Whether you need to **automate internal operations**, build an **AI agent** that
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://close.com&size=64" width="28"> | **Close** | CRM ágil centrado en comunicación directa: llamadas, SMS y email. | [**→ Probar**](https://refer.close.com/bf9dumgltl5q) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://apollo.io&size=64" width="28"> | **Apollo.io** | Inteligencia de ventas, enriquecimiento de contactos y prospección B2B. | [**→ Probar**](https://get.apollo.io/mzxfxk1o1ea5) |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
-</div>
+---
 
 ### 🎬 IA Generativa: Video, Voz & Media
 
@@ -151,9 +139,7 @@ Whether you need to **automate internal operations**, build an **AI agent** that
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://higgsfield.ai&size=64" width="28"> | **Higgsfield** | Generación de imágenes y arte con IA de alta fidelidad. | [**→ Generar Imágenes**](https://goto.higgsfield.ai/yqXP3y) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://openart.ai&size=64" width="28"> | **OpenArt AI** | Plataforma de generación de arte IA con control preciso de estilos. | [**→ Crear Arte**](https://openartai.pxf.io/jexB00) |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
-</div>
+---
 
 ### 📊 Marketing, Contenido & Creativos
 
@@ -165,9 +151,7 @@ Whether you need to **automate internal operations**, build an **AI agent** that
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://envato.com&size=64" width="28"> | **Envato** | Marketplace premium de templates, assets gráficos y recursos creativos. | [**→ Explorar Assets**](https://1.envato.market/9Lkb60) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://popai.pro&size=64" width="28"> | **Pop AI** | Asistente de IA para lectura, escritura y productividad inteligente. | [**→ Probar**](https://01aipteltd.pxf.io/JkzvgQ) |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
-</div>
+---
 
 ### 📱 Comunicación & WhatsApp
 
@@ -176,9 +160,7 @@ Whether you need to **automate internal operations**, build an **AI agent** that
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ycloud.com&size=64" width="28"> | **Ycloud** | Provider de WhatsApp Business API para chatbots y automatización. | [**→ Conectar WhatsApp**](https://partner.ycloud.com/invitation/dxz9TbKP?gh) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wati.io&size=64" width="28"> | **Wati.io** | Plataforma de atención al cliente multiagente sobre WhatsApp API. | [**→ Probar**](https://affiliates.wati.io/23d5qw8lx136) |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
-</div>
+---
 
 ### 🗂️ Productividad & Gestión
 
