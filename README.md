@@ -189,7 +189,20 @@ Whether you need to **automate internal operations**, build an **AI agent** that
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:16213e&height=60&section=header&text=⚡%20Featured%20Work&fontSize=22&fontColor=58a6ff&animation=fadeIn" alt="featured banner"/>
+</div>
+
+### 🔁 Published n8n Workflow Templates
+
+| Template | Description | |
+| :--- | :--- | :--- |
+| 🗄️ **Scheduled n8n Workflow Backups → Google Drive** | Automatic backup solution for all your n8n workflows saved directly to Google Drive. Using the n8n API with scheduled triggers — essential for any production deployment. | [**→ Ver Template**](https://n8n.io/workflows/7707-scheduled-n8n-workflow-backups-to-google-drive-using-n8n-api/) |
+
+---
+
 ## 📈 GitHub Analytics
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonyciencIA&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="165" alt="GitHub Stats">
