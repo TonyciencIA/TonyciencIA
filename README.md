@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.png" width="120" alt="TonyciencIA Logo" />
+  <img src="./assets/logo.png" width="160" alt="TonyciencIA Logo" />
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Tony%20·%20CiencIA&fontSize=55&animation=fadeIn&fontAlignY=40&desc=AI%20Builder%20·%20Automatización%20·%20E-commerce%20·%20Latam&descAlignY=60&fontColor=58a6ff" alt="Header Banner" />
 </div>
@@ -37,7 +37,7 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://n8n.io&size=64" width="28"> | **n8n** | El cerebro de todo. Orquesto APIs, LLMs, CRMs y bases de datos en workflows visuales sin límites. **Partner Oficial.** | [**→ Comenzar Gratis**](https://n8n.partnerlinks.io/8qtvuqc23ra6) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://emergent.sh&size=64" width="28"> | **Emergent** | Despliego agentes de IA y modelos emergentes en producción a velocidad récord. | [**→ Probar**](https://app.emergent.sh/?via=app-ai-1) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://activecampaign.com&size=64" width="28"> | **ActiveCampaign** | Mapeo de customer journeys y email marketing automatizado de alto impacto. | [**→ Probar**](https://try.activecampaign.com/x53ed2y6qns9) |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://brevo.com&size=64" width="28"> | **Brevo** | Email y SMS transaccional/marketing con la mejor relación calidad-precio. | [**→ Probar**](https://get.brevo.com/p76y9av2p0t1) |
+| <img src="https://cdn.worldvectorlogo.com/logos/brevo-1.svg" width="28" height="28"> | **Brevo** | Email y SMS transaccional/marketing con la mejor relación calidad-precio. | [**→ Probar**](https://get.brevo.com/p76y9av2p0t1) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://getresponse.com&size=64" width="28"> | **GetResponse** | Landing pages, webinars y autoresponders de marketing todo-en-uno. | [**→ Probar**](https://try.getresponsetoday.com/zxqczrj1idl8) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kit.com&size=64" width="28"> | **Kit (ConvertKit)** | Gestión de audiencias y newsletters para creadores de contenido. | [**→ Probar**](https://partners.kit.com/v78kkgp588z9-uw04r) |
 
