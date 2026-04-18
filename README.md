@@ -4,8 +4,9 @@
   <br>
   <img src="./assets/logo.png" width="180" alt="TonyciencIA Logo" style="margin-top: -20px;" />
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3000&pause=1000&color=0d1117&center=true&vCenter=true&width=700&lines=Tony+·+CiencIA;AI+Builder+%F0%9F%A4%96;Automation+Architect+%E2%9A%99%EF%B8%8F;Project+Manager+%F0%9F%93%8B;E-commerce+Builder+%F0%9F%9B%92" alt="Typing SVG" />
-  <br><br>
+  <h2>Tony · CiencIA</h2>
+  <p><em>AI Builder 🤖 · Automation Architect ⚙️ · Project Manager 📋 · E-commerce Builder 🛒</em></p>
+  <br>
   <sub><b>Founder @ TonyCiencia LLC · New Mexico, USA · Building from Latinoamérica 🌎</b></sub>
   <br><br>
   <a href="https://tonyciencia.com"><img src="https://img.shields.io/badge/🌐_tonyciencia.com-0d1117?style=for-the-badge&logoColor=white" alt="Website"/></a>
