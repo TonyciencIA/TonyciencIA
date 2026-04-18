@@ -1,32 +1,100 @@
+<!-- HEADER -->
 <div align="center">
-  <img src="./assets/logo.png" width="160" alt="TonyciencIA Logo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=30&section=header" />
+  <br>
+  <img src="./assets/logo.png" width="180" alt="TonyciencIA Logo" style="margin-top: -20px;" />
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Tony%20·%20CiencIA&fontSize=55&animation=fadeIn&fontAlignY=40&desc=AI%20Builder%20·%20Automatización%20·%20E-commerce%20·%20Latam&descAlignY=60&fontColor=58a6ff" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3000&pause=1000&color=0d1117&center=true&vCenter=true&width=700&lines=Tony+·+CiencIA;AI+Builder+%F0%9F%A4%96;Automation+Architect+%E2%9A%99%EF%B8%8F;Project+Manager+%F0%9F%93%8B;E-commerce+Builder+%F0%9F%9B%92" alt="Typing SVG" />
+  <br><br>
+  <sub><b>Founder @ TonyCiencia LLC · New Mexico, USA · Building from Latinoamérica 🌎</b></sub>
+  <br><br>
+  <a href="https://tonyciencia.com"><img src="https://img.shields.io/badge/🌐_tonyciencia.com-0d1117?style=for-the-badge&logoColor=white" alt="Website"/></a>
+  <a href="https://www.youtube.com/@Tonyciencia"><img src="https://img.shields.io/badge/YouTube-@Tonyciencia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/tonyciencia"><img src="https://img.shields.io/badge/Instagram-@TonyCiencia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=header&text=Building%20from%20Latam%20%F0%9F%8C%8E&fontSize=28&fontAlignY=65&fontColor=ffffff&animation=twinkling" alt="Sub Banner"/>
 </div>
-
-<div align="center">
-  
-  [![Website](https://img.shields.io/badge/🌐_tonyciencia.com-000000?style=for-the-badge)](https://tonyciencia.com)
-  [![YouTube](https://img.shields.io/badge/YouTube-@Tonyciencia-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Tonyciencia)
-  [![Instagram](https://img.shields.io/badge/Instagram-@TonyCiencia-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tonyciencia)
-
-</div>
-
-<br>
-
-<div align="center">
-  <strong>Construyo motores de ventas impulsados por Inteligencia Artificial que operan 24/7.</strong><br>
-  <sub>Agentes Autónomos · Workflows n8n · WhatsApp Bots · SaaS · Shopify · CRMs</sub>
-</div>
-
-<br>
 
 ---
 
-## 🧠 Mi Ecosistema de Herramientas & Partners
+## 🧠 About Me
 
-> Cada herramienta en este ecosistema ha sido seleccionada, probada y validada en producción real.
-> Si estás buscando escalar tu negocio con tecnología, aquí tienes mi stack completo.
+I'm **Tony** — a builder obsessed with making businesses run smarter through AI and automation.
+
+I founded **TonyCiencia LLC** in New Mexico and operate from Latinoamérica, where I help companies and entrepreneurs transform their operations using modern agentic AI, no-code workflows, and edge-first infrastructure.
+
+My work sits at the intersection of **B2B automation**, **AI agent development**, **Project Management**, and **full-stack engineering**. I don't just build tools — I build systems that work while you sleep.
+
+> 💡 *"Automate the boring. Build the extraordinary."*
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
+</div>
+
+## 🚀 What I Build
+
+| Area | Description |
+| :--- | :--- |
+| 🤖 **AI Agents** | Autonomous agents with Claude Code + AntiGravity for real business tasks |
+| ⚙️ **B2B Automation** | n8n workflows, CRM pipelines, and API integrations for SMBs in Latam |
+| 📋 **Project Management** | Leading cross-functional teams, sprints, and delivery roadmaps for tech projects |
+| 🌐 **Web Infrastructure** | Full-stack apps on Cloudflare Pages, Workers & EmDash — fast, global, serverless |
+| 🛒 **E-Commerce Systems** | Shopify development with Meta Ads automation and custom integrations |
+| 🧩 **MCP & Agentic Tools** | Building and connecting MCP servers for next-gen development environments |
+| 📱 **SaaS Products** | Full-stack apps with NestJS + Next.js + PostgreSQL for end users |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
+</div>
+
+## ❤️ Core Stack
+
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
+</div>
+
+## 🤝 B2B & Collaborations
+
+I specialize in helping businesses in Latinoamérica that are ready to move fast with AI.
+
+Whether you need to **automate internal operations**, build an **AI agent** that handles customer workflows, migrate to modern **edge infrastructure**, or integrate **Shopify** with your entire business stack — I've done it and I can help you do it too.
+
+**What I bring to B2B partnerships:**
+
+- 🔄 End-to-end automation design with **n8n** and **Claude Code**
+- 📋 **Project Management** — I lead teams, define roadmaps, and deliver on time
+- 🌐 Infrastructure built on **Cloudflare** — scalable from day one
+- 🛒 E-commerce integration and optimization
+- 🤖 Custom AI agents with **MCP** and agentic frameworks
+- 📊 Full-stack Python backends for data-heavy workflows
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:1f6feb&height=80&section=header&text=🧠%20Mi%20Ecosistema%20de%20Tools%20%26%20Partners&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="section banner"/>
+</div>
+
+> Cada herramienta ha sido seleccionada, probada y validada en producción real.
+> Si buscas escalar con tecnología, aquí está mi stack completo.
 
 ---
 
@@ -41,7 +109,9 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://getresponse.com&size=64" width="28"> | **GetResponse** | Landing pages, webinars y autoresponders de marketing todo-en-uno. | [**→ Probar**](https://try.getresponsetoday.com/zxqczrj1idl8) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kit.com&size=64" width="28"> | **Kit (ConvertKit)** | Gestión de audiencias y newsletters para creadores de contenido. | [**→ Probar**](https://partners.kit.com/v78kkgp588z9-uw04r) |
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
+</div>
 
 ### 🏗️ App Builders & Desarrollo
 
@@ -51,7 +121,9 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://base44.com&size=64" width="28"> | **Base44** | Prototipado rápido de apps internas y herramientas de negocio con IA. | [**→ Construir**](https://base44.pxf.io/c/6249333/2049275/25619?trafcat=base) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://namecheap.com&size=64" width="28"> | **Namecheap** | Dominios, hosting y SSL para todos mis proyectos web y SaaS. | [**→ Registrar Dominio**](https://namecheap.pxf.io/3JQVNX) |
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
+</div>
 
 ### 💼 Ventas & CRMs
 
@@ -62,7 +134,9 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://close.com&size=64" width="28"> | **Close** | CRM ágil centrado en comunicación directa: llamadas, SMS y email. | [**→ Probar**](https://refer.close.com/bf9dumgltl5q) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://apollo.io&size=64" width="28"> | **Apollo.io** | Inteligencia de ventas, enriquecimiento de contactos y prospección B2B. | [**→ Probar**](https://get.apollo.io/mzxfxk1o1ea5) |
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
+</div>
 
 ### 🎬 IA Generativa: Video, Voz & Media
 
@@ -76,7 +150,9 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://higgsfield.ai&size=64" width="28"> | **Higgsfield** | Generación de imágenes y arte con IA de alta fidelidad. | [**→ Generar Imágenes**](https://goto.higgsfield.ai/yqXP3y) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://openart.ai&size=64" width="28"> | **OpenArt AI** | Plataforma de generación de arte IA con control preciso de estilos. | [**→ Crear Arte**](https://openartai.pxf.io/jexB00) |
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
+</div>
 
 ### 📊 Marketing, Contenido & Creativos
 
@@ -88,7 +164,9 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://envato.com&size=64" width="28"> | **Envato** | Marketplace premium de templates, assets gráficos y recursos creativos. | [**→ Explorar Assets**](https://1.envato.market/9Lkb60) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://popai.pro&size=64" width="28"> | **Pop AI** | Asistente de IA para lectura, escritura y productividad inteligente. | [**→ Probar**](https://01aipteltd.pxf.io/JkzvgQ) |
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
+</div>
 
 ### 📱 Comunicación & WhatsApp
 
@@ -97,7 +175,9 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ycloud.com&size=64" width="28"> | **Ycloud** | Provider de WhatsApp Business API para chatbots y automatización. | [**→ Conectar WhatsApp**](https://partner.ycloud.com/invitation/dxz9TbKP?gh) |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wati.io&size=64" width="28"> | **Wati.io** | Plataforma de atención al cliente multiagente sobre WhatsApp API. | [**→ Probar**](https://affiliates.wati.io/23d5qw8lx136) |
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider"/>
+</div>
 
 ### 🗂️ Productividad & Gestión
 
@@ -118,7 +198,7 @@
 ---
 
 <div align="center">
-  <sub>Crafted with AI by <a href="https://tonyciencia.com">Tony · CiencIA</a> — Builder, Partner, Automator.</sub>
+  <sub>Crafted with AI by <a href="https://tonyciencia.com">Tony · CiencIA</a> — Builder, Partner, Project Manager, Automator.</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" alt="Footer" />
